@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CEFDlgMFCApp", "CEFDlgMFCApp\CEFDlgMFCApp.vcxproj", "{799EFB9D-BD22-4BD1-A9F5-DFF3E11819CB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{799EFB9D-BD22-4BD1-A9F5-DFF3E11819CB}.Debug|x64.ActiveCfg = Debug|x64
+		{799EFB9D-BD22-4BD1-A9F5-DFF3E11819CB}.Debug|x64.Build.0 = Debug|x64
+		{799EFB9D-BD22-4BD1-A9F5-DFF3E11819CB}.Debug|x86.ActiveCfg = Debug|Win32
+		{799EFB9D-BD22-4BD1-A9F5-DFF3E11819CB}.Debug|x86.Build.0 = Debug|Win32
+		{799EFB9D-BD22-4BD1-A9F5-DFF3E11819CB}.Release|x64.ActiveCfg = Release|x64
+		{799EFB9D-BD22-4BD1-A9F5-DFF3E11819CB}.Release|x64.Build.0 = Release|x64
+		{799EFB9D-BD22-4BD1-A9F5-DFF3E11819CB}.Release|x86.ActiveCfg = Release|Win32
+		{799EFB9D-BD22-4BD1-A9F5-DFF3E11819CB}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FE4E68C4-8B10-40C7-A38D-2DE539B2F95E}
+	EndGlobalSection
+EndGlobal
